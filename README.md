@@ -1,5 +1,3 @@
-# playwhe
-
 # Play Whe AI Predictor
 
 This Streamlit application predicts Trinidad & Tobago Play Whe lottery numbers using machine learning models trained on historical data.
